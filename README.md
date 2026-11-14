@@ -6,10 +6,10 @@
 </a>
 
 <p align="center">
-  <a href="https://rehankamboh.vercel.app/"><img src="assets/buttons/portfolio.svg" height="40" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/muhammad-rehan-223225436/"><img src="assets/buttons/linkedin.svg" height="40" alt="LinkedIn"></a>
-  <a href="mailto:work.rehankamboh@gmail.com"><img src="assets/buttons/email.svg" height="40" alt="Email"></a>
-  <a href="https://wa.me/923280865468"><img src="assets/buttons/whatsapp.svg" height="40" alt="WhatsApp"></a>
+  <a href="https://rehankamboh.vercel.app/"><img src="assets/buttons/portfolio.svg?v=2" height="40" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/muhammad-rehan-223225436/"><img src="assets/buttons/linkedin.svg?v=2" height="40" alt="LinkedIn"></a>
+  <a href="mailto:work.rehankamboh@gmail.com"><img src="assets/buttons/email.svg?v=2" height="40" alt="Email"></a>
+  <a href="https://wa.me/923280865468"><img src="assets/buttons/whatsapp.svg?v=2" height="40" alt="WhatsApp"></a>
 </p>
 
 ### Introduction
