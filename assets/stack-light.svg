@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="92" viewBox="0 0 1280 92" role="img" aria-label="React, Next.js, TypeScript, NestJS, Node.js, Rust, GitHub, Vercel">
+  <title>React, Next.js, TypeScript, NestJS, Node.js, Rust, GitHub, Vercel</title>
+  <rect width="1280" height="92" rx="16" fill="#F7F9FB" stroke="#DDE3EA"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0B1220">
+    <rect x="24" y="26" width="92" height="40" rx="20" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="70" y="51" text-anchor="middle">React</text>
+    <rect x="128" y="26" width="100" height="40" rx="20" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="178" y="51" text-anchor="middle">Next.js</text>
+    <rect x="240" y="26" width="124" height="40" rx="20" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="302" y="51" text-anchor="middle">TypeScript</text>
+    <rect x="376" y="26" width="96" height="40" rx="20" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="424" y="51" text-anchor="middle">NestJS</text>
+    <rect x="484" y="26" width="108" height="40" rx="20" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="538" y="51" text-anchor="middle">Node.js</text>
+    <rect x="604" y="26" width="78" height="40" rx="20" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="643" y="51" text-anchor="middle">Rust</text>
+    <rect x="694" y="26" width="100" height="40" rx="20" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="744" y="51" text-anchor="middle">GitHub</text>
+    <rect x="806" y="26" width="92" height="40" rx="20" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="852" y="51" text-anchor="middle">Vercel</text>
+  </g>
+</svg>
