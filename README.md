@@ -46,6 +46,34 @@ I build the pages, the type, and the motion. A site starts as a layout, then bec
 </tr>
 </table>
 
+### Fundora
+
+<table>
+<tr>
+<td>
+<b>Prop-trading marketing site and trader portal.</b> I built the landing, the session-guarded portal, and the Node API. Neon Postgres holds auth, challenge prices, rewards, and support tickets. The Next.js admin app uses the same database.
+<br><br>
+<img src="assets/badges/landing.svg" height="26" alt="Landing">
+&nbsp;
+<img src="assets/badges/portal.svg" height="26" alt="Portal">
+&nbsp;
+<img src="assets/badges/api.svg" height="26" alt="API">
+<br><br>
+<a href="https://github.com/Mrehankamboh/fundora"><img src="assets/badges/source.svg" height="26" alt="Source code"></a>
+&nbsp;
+<a href="https://github.com/Mrehankamboh/fundora-admin"><img src="assets/badges/admin.svg" height="26" alt="Admin app"></a>
+<br><br>
+<sub>HTML, CSS, JavaScript, Node.js, Neon Postgres, Next.js</sub>
+</td>
+<td width="290">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/featured/fundora-dark.svg">
+  <img src="assets/featured/fundora-light.svg" width="290" alt="A trader portal with a sidebar and a price chart.">
+</picture>
+</td>
+</tr>
+</table>
+
 ### About
 
 <table>
