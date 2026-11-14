@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="420" viewBox="0 0 580 420" role="img" aria-label="BudMix mixes laptop and phone sound in one pair of earbuds.">
+  <title>BudMix</title>
+  <rect width="580" height="420" rx="28" fill="#0B1220"/>
+  <circle cx="470" cy="64" r="88" fill="#34D399" opacity="0.08"/>
+  <path d="M168 78c32 26 68 26 100 0" fill="none" stroke="#34D399" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="156" cy="92" r="16" fill="none" stroke="#34D399" stroke-width="4"/>
+  <circle cx="280" cy="92" r="16" fill="none" stroke="#34D399" stroke-width="4"/>
+  <rect x="64" y="128" width="292" height="176" rx="16" fill="#121A27" stroke="#2A3A50" stroke-width="2"/>
+  <rect x="80" y="144" width="260" height="128" rx="8" fill="#0B1220"/>
+  <text x="96" y="172" fill="#8B9AAB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Laptop</text>
+  <rect x="96" y="188" width="92" height="8" rx="4" fill="#34D399"/>
+  <rect x="96" y="206" width="70" height="8" rx="4" fill="#7DD3FC"/>
+  <path d="M196 192h28" fill="none" stroke="#EEF2F6" stroke-width="2" stroke-linecap="round"/>
+  <path d="M196 210h28" fill="none" stroke="#EEF2F6" stroke-width="2" stroke-linecap="round"/>
+  <path d="M224 192c18 8 18 18 0 26" fill="none" stroke="#34D399" stroke-width="2"/>
+  <rect x="248" y="194" width="72" height="16" rx="8" fill="#34D399"/>
+  <text x="96" y="248" fill="#8B9AAB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Two sounds, one mix</text>
+  <rect x="156" y="304" width="108" height="10" rx="4" fill="#1C2836"/>
+  <rect x="136" y="314" width="148" height="8" rx="3" fill="#243244"/>
+  <rect x="392" y="156" width="96" height="176" rx="18" fill="#121A27" stroke="#34D399" stroke-width="2.5"/>
+  <rect x="406" y="172" width="68" height="118" rx="8" fill="#0B1220"/>
+  <rect x="418" y="214" width="44" height="8" rx="4" fill="#7DD3FC"/>
+  <text x="418" y="202" fill="#8B9AAB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Phone</text>
+  <circle cx="440" cy="308" r="5" fill="#34D399"/>
+  <text x="64" y="372" fill="#8B9AAB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Laptop and phone, one pair of earbuds</text>
+</svg>

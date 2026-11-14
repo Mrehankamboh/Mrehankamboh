@@ -21,13 +21,24 @@ Hi, I'm Muhammad Rehan Kamboh. I build websites, frontend and backend. BudMix is
 <td>
 <b>A laptop and a phone, in one pair of Bluetooth earbuds.</b> The earbuds stay on the laptop. Phone sound comes in by Wi-Fi Cast or Bluetooth, and Windows mixes both. Nothing is installed on the phone. There is no account, and the shortcut is Ctrl+Alt+B.
 <br><br>
+<img src="assets/badges/no-phone.svg" height="26" alt="No phone install">
+&nbsp;
+<img src="assets/badges/no-account.svg" height="26" alt="No account">
+&nbsp;
+<img src="assets/badges/shortcut.svg" height="26" alt="Ctrl+Alt+B">
+<br><br>
 <a href="https://budmix.vercel.app"><img src="assets/badges/live.svg" height="26" alt="Live site"></a>
 &nbsp;
 <a href="https://github.com/Mrehankamboh/BudMix"><img src="assets/badges/source.svg" height="26" alt="Source code"></a>
 <br><br>
 <sub>Rust · Windows</sub>
 </td>
-<td width="290"><img src="assets/featured/budmix.svg" width="290" alt="A laptop and a phone share one pair of Bluetooth earbuds."></td>
+<td width="290">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/featured/budmix-dark.svg">
+  <img src="assets/featured/budmix-light.svg" width="290" alt="Earbuds above a laptop that mixes two sounds, with a phone beside it.">
+</picture>
+</td>
 </tr>
 </table>
 
@@ -77,6 +88,13 @@ Hi, I'm Muhammad Rehan Kamboh. I build websites, frontend and backend. BudMix is
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img src="assets/stack-light.svg" width="100%" alt="React, Next.js, TypeScript, NestJS, Node.js, Rust, GitHub, and Vercel.">
+</picture>
+
+### On GitHub lately
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mrehankamboh/Mrehankamboh/stats/stats-dark.svg">
+  <img src="https://raw.githubusercontent.com/Mrehankamboh/Mrehankamboh/stats/stats-light.svg" width="100%" alt="GitHub activity over the last 12 months: contributions, streaks, a contribution heatmap, and top languages.">
 </picture>
 
 <sub>

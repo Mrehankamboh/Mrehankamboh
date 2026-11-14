@@ -1,0 +1,54 @@
+name: profile stats
+
+on:
+  schedule:
+    - cron: "15 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Draw the stats card
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          STATS_LOGIN: ${{ github.repository_owner }}
+          STATS_OUT: ${{ runner.temp }}/stats
+        run: node scripts/stats.mjs
+
+      - name: Publish to the stats branch
+        env:
+          OUT: ${{ runner.temp }}/stats
+        run: |
+          set -euo pipefail
+          git fetch -q origin stats || true
+          if git rev-parse --verify origin/stats >/dev/null 2>&1; then
+            git switch -q -c stats-publish origin/stats
+          else
+            git switch -q --orphan stats-publish
+          fi
+          git rm -rfq . || true
+          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp "$OUT"/* .
+          git add -A
+          git diff --cached --quiet && { echo "no change"; exit 0; }
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "stats $(date -u +%F)"
+          git push -q origin HEAD:stats
