@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Shipping">
+  <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="16" fill="#0B1220" stroke="#2A3A50" stroke-width="1.5"/>
+  <path d="M18 34h22" fill="none" stroke="#34D399" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M34 26l8 8-8 8" fill="none" stroke="#34D399" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="22" cy="42" r="2" fill="#34D399"/>
+</svg>

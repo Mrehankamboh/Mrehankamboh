@@ -1,24 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-label="Muhammad Rehan Kamboh. I build websites, frontend and backend.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Muhammad Rehan Kamboh. I build websites, frontend and backend.">
   <title>Muhammad Rehan Kamboh. I build websites, frontend and backend.</title>
   <defs>
     <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.1" fill="#1C2836"/>
+      <circle cx="2" cy="2" r="1.05" fill="#1C2836"/>
     </pattern>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 40) scale(340)">
-      <stop offset="0" stop-color="#34D399" stop-opacity="0.16"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 40) scale(380)">
+      <stop offset="0" stop-color="#34D399" stop-opacity="0.14"/>
       <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
     </radialGradient>
-    <clipPath id="card"><rect width="1280" height="280" rx="24"/></clipPath>
+    <clipPath id="card"><rect width="1280" height="360" rx="24"/></clipPath>
   </defs>
   <g clip-path="url(#card)">
-    <rect width="1280" height="280" fill="#0B1220"/>
-    <rect width="1280" height="280" fill="url(#dots)"/>
-    <rect width="1280" height="280" fill="url(#glow)"/>
-    <circle cx="64" cy="72" r="6" fill="#34D399"/>
-    <text x="84" y="78" fill="#34D399" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600">Websites, frontend, and backend</text>
-    <text x="64" y="148" fill="#F7F9FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700">Muhammad Rehan Kamboh</text>
-    <text x="64" y="198" fill="#C5D0DC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">I build websites, frontend and backend.</text>
-    <text x="64" y="236" fill="#8B9AAB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">React  ·  Next.js  ·  NestJS  ·  Rust</text>
-    <rect x="0.75" y="0.75" width="1278.5" height="278.5" rx="23.5" fill="none" stroke="#2A3A50" stroke-width="1.5"/>
+    <rect width="1280" height="360" fill="#0B1220"/>
+    <rect width="1280" height="360" fill="url(#dots)"/>
+    <rect width="1280" height="360" fill="url(#glow)"/>
+    <circle cx="72" cy="78" r="5.5" fill="#34D399"/>
+    <text x="90" y="84" fill="#34D399" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Websites, frontend, and backend</text>
+    <text x="68" y="168" fill="#F7F9FB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700">Muhammad Rehan Kamboh</text>
+    <text x="70" y="214" fill="#C5D0DC" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">I build websites, frontend and backend.</text>
+    <text x="70" y="268" fill="#8B9AAB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">React   ·   Next.js   ·   NestJS   ·   Rust</text>
+    <rect x="1036" y="108" width="144" height="144" rx="32" fill="#121A27" stroke="#2A3A50" stroke-width="1.5"/>
+    <text x="1108" y="198" text-anchor="middle" fill="#34D399" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700">R</text>
+    <rect x="0.75" y="0.75" width="1278.5" height="358.5" rx="23.5" fill="none" stroke="#2A3A50" stroke-width="1.5"/>
   </g>
 </svg>

@@ -14,50 +14,61 @@
 
 Hi, I'm Muhammad Rehan Kamboh. I build websites, frontend and backend. BudMix is my Windows app: a laptop and a phone, in one pair of Bluetooth earbuds. I use React, Next.js, NestJS, and Rust.
 
+### Featured: BudMix
+
+<table>
+<tr>
+<td>
+<b>A laptop and a phone, in one pair of Bluetooth earbuds.</b> The earbuds stay on the laptop. Phone sound comes in by Wi-Fi Cast or Bluetooth, and Windows mixes both. Nothing is installed on the phone. There is no account, and the shortcut is Ctrl+Alt+B.
+<br><br>
+<a href="https://budmix.vercel.app"><img src="assets/badges/live.svg" height="26" alt="Live site"></a>
+&nbsp;
+<a href="https://github.com/Mrehankamboh/BudMix"><img src="assets/badges/source.svg" height="26" alt="Source code"></a>
+<br><br>
+<sub>Rust · Windows</sub>
+</td>
+<td width="290"><img src="assets/featured/budmix.svg" width="290" alt="A laptop and a phone share one pair of Bluetooth earbuds."></td>
+</tr>
+</table>
+
 ### About
 
 <table>
 <tr>
-<td width="72"><b>001</b></td>
-<td>
-<b>Websites</b><br>
-I build the pages, the type, and the motion. A site starts as a layout, then becomes a working page where the spacing and motion match.
-</td>
+<td align="center" width="56"><img src="assets/icons/websites.svg" width="40" alt=""></td>
+<td width="220"><b>Websites</b><br><sub>Layout · Type · Motion</sub></td>
+<td>I build the pages, the type, and the motion. A site starts as a layout, then becomes a working page where the spacing and motion match.</td>
+<td align="right"><a href="https://rehankamboh.vercel.app/"><img src="assets/badges/live.svg" height="24" alt="Live"></a></td>
 </tr>
 <tr>
-<td width="72"><b>002</b></td>
-<td>
-<b>Frontend</b><br>
-I build the pages people use with React and Next.js: the layout, the type, and how a site responds when someone clicks, scrolls, or resizes it.
-</td>
+<td align="center" width="56"><img src="assets/icons/frontend.svg" width="40" alt=""></td>
+<td width="220"><b>Frontend</b><br><sub>React · Next.js · TypeScript</sub></td>
+<td>I build the pages people use with React and Next.js: the layout, the type, and how a site responds when someone clicks, scrolls, or resizes it.</td>
+<td></td>
 </tr>
 <tr>
-<td width="72"><b>003</b></td>
-<td>
-<b>Backend</b><br>
-I write the server side with NestJS and Node.js, so a site can store data and answer requests.
-</td>
+<td align="center" width="56"><img src="assets/icons/backend.svg" width="40" alt=""></td>
+<td width="220"><b>Backend</b><br><sub>NestJS · Node.js</sub></td>
+<td>I write the server side with NestJS and Node.js, so a site can store data and answer requests.</td>
+<td></td>
 </tr>
 <tr>
-<td width="72"><b>004</b></td>
-<td>
-<b>BudMix</b><br>
-A Windows app. The earbuds stay on the laptop. Phone sound comes in by Wi-Fi Cast or Bluetooth, and Windows mixes both. Nothing is installed on the phone. There is no account, and the shortcut is Ctrl+Alt+B.
-</td>
+<td align="center" width="56"><img src="assets/icons/budmix.svg" width="40" alt=""></td>
+<td width="220"><a href="https://github.com/Mrehankamboh/BudMix"><b>BudMix</b></a><br><sub>Rust · Windows</sub></td>
+<td>A Windows app. The earbuds stay on the laptop. Phone sound comes in by Wi-Fi Cast or Bluetooth, and Windows mixes both.</td>
+<td align="right"><a href="https://budmix.vercel.app"><img src="assets/badges/app.svg" height="24" alt="App"></a></td>
 </tr>
 <tr>
-<td width="72"><b>005</b></td>
-<td>
-<b>Stack</b><br>
-React, Next.js, and TypeScript for the pages. NestJS and Node.js for the server. Rust for BudMix. GitHub holds the code, and Vercel hosts the sites.
-</td>
+<td align="center" width="56"><img src="assets/icons/stack.svg" width="40" alt=""></td>
+<td width="220"><b>Stack</b><br><sub>TypeScript · Rust</sub></td>
+<td>React, Next.js, and TypeScript for the pages. NestJS and Node.js for the server. Rust for BudMix.</td>
+<td></td>
 </tr>
 <tr>
-<td width="72"><b>006</b></td>
-<td>
-<b>Shipping</b><br>
-The code stays on GitHub under Mrehankamboh. When a site is ready, it goes live on Vercel.
-</td>
+<td align="center" width="56"><img src="assets/icons/shipping.svg" width="40" alt=""></td>
+<td width="220"><b>Shipping</b><br><sub>GitHub · Vercel</sub></td>
+<td>The code stays on GitHub under Mrehankamboh. When a site is ready, it goes live on Vercel.</td>
+<td align="right"><a href="https://github.com/Mrehankamboh"><img src="assets/badges/source.svg" height="24" alt="GitHub"></a></td>
 </tr>
 </table>
 
