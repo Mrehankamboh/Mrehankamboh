@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="228" viewBox="0 0 1280 228" role="img" aria-label="Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind. Backend: Node.js, NestJS. App: Rust, Unity, C#. Ship: Git, GitHub, Vercel.">
+  <title>Complete stack. Frontend, backend, app, and shipping.</title>
+  <rect width="1280" height="228" rx="20" fill="#F7F9FB" stroke="#DDE3EA"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#0A7A50">
+    <text x="28" y="48">FRONTEND</text>
+    <text x="28" y="96">BACKEND</text>
+    <text x="28" y="144">APP</text>
+    <text x="28" y="192">SHIP</text>
+  </g>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0B1220">
+    <rect x="148" y="26" width="72" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="184" y="49" text-anchor="middle">HTML</text>
+    <rect x="228" y="26" width="64" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="260" y="49" text-anchor="middle">CSS</text>
+    <rect x="300" y="26" width="118" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="359" y="49" text-anchor="middle">JavaScript</text>
+    <rect x="426" y="26" width="112" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="482" y="49" text-anchor="middle">TypeScript</text>
+    <rect x="546" y="26" width="78" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="585" y="49" text-anchor="middle">React</text>
+    <rect x="632" y="26" width="92" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="678" y="49" text-anchor="middle">Next.js</text>
+    <rect x="732" y="26" width="96" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="780" y="49" text-anchor="middle">Tailwind</text>
+    <rect x="148" y="74" width="96" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="196" y="97" text-anchor="middle">Node.js</text>
+    <rect x="252" y="74" width="88" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="296" y="97" text-anchor="middle">NestJS</text>
+    <rect x="148" y="122" width="70" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="183" y="145" text-anchor="middle">Rust</text>
+    <rect x="226" y="122" width="76" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="264" y="145" text-anchor="middle">Unity</text>
+    <rect x="310" y="122" width="56" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="338" y="145" text-anchor="middle">C#</text>
+    <rect x="148" y="170" width="58" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="177" y="193" text-anchor="middle">Git</text>
+    <rect x="214" y="170" width="86" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="257" y="193" text-anchor="middle">GitHub</text>
+    <rect x="308" y="170" width="82" height="36" rx="18" fill="#FFFFFF" stroke="#DDE3EA"/>
+    <text x="349" y="193" text-anchor="middle">Vercel</text>
+  </g>
+</svg>

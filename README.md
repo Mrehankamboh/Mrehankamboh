@@ -90,8 +90,8 @@ I build the pages, the type, and the motion. A site starts as a layout, then bec
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" width="100%" alt="React, Next.js, TypeScript, NestJS, Node.js, Rust, GitHub, and Vercel.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-full-dark.svg">
+  <img src="assets/stack-full-light.svg" width="100%" alt="Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind. Backend: Node.js, NestJS. App: Rust, Unity, C#. Ship: Git, GitHub, Vercel.">
 </picture>
 
 ### On GitHub lately
